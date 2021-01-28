@@ -1,4 +1,4 @@
-package com.nucleus.loan.service;
+/*package com.nucleus.loan.service;
 
 import com.nucleus.loan.database.EligibilityPolicyDao;
 import com.nucleus.loan.model.EligibilityPolicy;
@@ -23,3 +23,4 @@ public class EligibilityPolicyServiceImpl implements EligibilityPolicyService
     
 
 }
+*/

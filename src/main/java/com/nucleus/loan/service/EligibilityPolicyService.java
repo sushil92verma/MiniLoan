@@ -1,7 +1,8 @@
-package com.nucleus.loan.service;
+/*package com.nucleus.loan.service;
 
 
 public interface EligibilityPolicyService
 {
     
 }
+*/

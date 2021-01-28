@@ -1,4 +1,4 @@
-package com.nucleus.loan.database;
+/*package com.nucleus.loan.database;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
@@ -18,3 +18,4 @@ public class EligibilityPolicyDaoImpl implements EligibilityPolicyDao
     
 
 }
+*/
