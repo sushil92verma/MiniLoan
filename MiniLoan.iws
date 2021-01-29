@@ -335,7 +335,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611923926708</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="model class eligiblity parameter">
+      <created>1611924395281</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611924395281</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -420,10 +427,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="453" y="65" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1611685417741" />
-    <state x="305" y="0" key="CommitChangelistDialog2" timestamp="1611923922614">
+    <state x="305" y="0" key="CommitChangelistDialog2" timestamp="1611924391572">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="305" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1611923922614" />
+    <state x="305" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1611924391572" />
     <state x="213" y="11" key="Maven.ArtifactSearchDialog" timestamp="1611951842886">
       <screen x="0" y="0" width="1366" height="706" />
     </state>
