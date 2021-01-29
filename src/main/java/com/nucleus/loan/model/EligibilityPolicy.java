@@ -1,4 +1,3 @@
-
 package com.nucleus.loan.model;
 
 import javax.persistence.*;
