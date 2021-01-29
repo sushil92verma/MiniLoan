@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6267afb-cc29-49fa-bddb-067e61ba4e93" name="Default Changelist" comment="">
+    <list default="true" id="c6267afb-cc29-49fa-bddb-067e61ba4e93" name="Default Changelist" comment="Payment.java">
       <change afterPath="$PROJECT_DIR$/src/main/java/com/nucleus/loan/model/Charge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MiniLoan.iws" beforeDir="false" afterPath="$PROJECT_DIR$/MiniLoan.iws" afterDir="false" />
     </list>
@@ -176,6 +176,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HierarchyBrowserManager">
@@ -250,7 +251,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -338,6 +339,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Payment.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Payment.java" />
+  </component>
   <component name="VssConfiguration">
     <CheckoutOptions>
       <option name="COMMENT" value="" />
@@ -391,6 +396,26 @@
     <webview flattenPackages="false" showMembers="false" autoscrollToSource="false" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="488" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1611915717653">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1611915717653" />
+    <state x="534" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1611915227498">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="534" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1611915227498" />
+    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1611917072846">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1611917072846" />
+    <state x="213" y="22" key="Maven.ArtifactSearchDialog" timestamp="1611915484377">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="22" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1611915484377" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1611917093713">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1611917093713" />
     <state x="390" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1611907707471">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
