@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6267afb-cc29-49fa-bddb-067e61ba4e93" name="Default Changelist" comment="model class">
-      <change beforePath="$PROJECT_DIR$/MiniLoan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MiniLoan.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniLoan.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/MiniLoan.ipr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniLoan.iws" beforeDir="false" afterPath="$PROJECT_DIR$/MiniLoan.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/nucleus/loan/model/EligibilityPolicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nucleus/loan/model/EligibilityPolicy.java" afterDir="false" />
-    </list>
+    <list default="true" id="c6267afb-cc29-49fa-bddb-067e61ba4e93" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -197,6 +192,13 @@
     <option name="ADD_LABEL_ON_UNIT_TEST_PASSED" value="true" />
     <option name="ADD_LABEL_ON_UNIT_TEST_FAILED" value="true" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="PerforceConfiguration">
     <option name="PORT" value="magic:1666" />
     <option name="USER" value="" />
@@ -252,6 +254,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.nucleus.loan.model" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\sushil verma\IdeaProjects\MiniLoan\src\main\webapp\WEB-INF" />
     </key>
@@ -323,7 +328,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611905039806</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="model class eligiblity parameter">
+      <created>1611923926708</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611923926708</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -340,7 +352,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="model class" />
-    <option name="LAST_COMMIT_MESSAGE" value="model class" />
+    <MESSAGE value="model class eligiblity parameter" />
+    <option name="LAST_COMMIT_MESSAGE" value="model class eligiblity parameter" />
   </component>
   <component name="VssConfiguration">
     <CheckoutOptions>
@@ -395,6 +408,10 @@
     <webview flattenPackages="false" showMembers="false" autoscrollToSource="false" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="275" y="25" key="#Notifications" timestamp="1611924101431">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1611924101431" />
     <state x="275" y="22" key="#Project_Structure" timestamp="1611820576872">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -403,10 +420,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="453" y="65" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1611685417741" />
-    <state x="305" y="0" key="CommitChangelistDialog2" timestamp="1611905524998">
+    <state x="305" y="0" key="CommitChangelistDialog2" timestamp="1611923922614">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="305" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1611905524998" />
+    <state x="305" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1611923922614" />
     <state x="213" y="11" key="Maven.ArtifactSearchDialog" timestamp="1611951842886">
       <screen x="0" y="0" width="1366" height="706" />
     </state>
@@ -415,11 +432,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1611329243896" />
-    <state x="275" y="92" key="Vcs.Push.Dialog.v2" timestamp="1611905502301">
+    <state x="275" y="92" key="Vcs.Push.Dialog.v2" timestamp="1611924368967">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="89" key="Vcs.Push.Dialog.v2/0.0.1366.706@0.0.1366.706" timestamp="1611951660110" />
-    <state x="275" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1611905502301" />
+    <state x="275" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1611924368967" />
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1611904987596">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
