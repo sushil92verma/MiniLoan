@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6267afb-cc29-49fa-bddb-067e61ba4e93" name="Default Changelist" comment="" />
+    <list default="true" id="c6267afb-cc29-49fa-bddb-067e61ba4e93" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/MiniLoan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MiniLoan.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniLoan.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/MiniLoan.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniLoan.iws" beforeDir="false" afterPath="$PROJECT_DIR$/MiniLoan.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nucleus/loan/model/EligibilityPolicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nucleus/loan/model/EligibilityPolicy.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -168,6 +173,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HierarchyBrowserManager">
     <option name="SHOW_PACKAGES" value="false" />
@@ -376,10 +384,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="453" y="65" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1611685417741" />
+    <state x="213" y="11" key="Maven.ArtifactSearchDialog" timestamp="1611951842886">
+      <screen x="0" y="0" width="1366" height="706" />
+    </state>
+    <state x="213" y="11" key="Maven.ArtifactSearchDialog/0.0.1366.706@0.0.1366.706" timestamp="1611951842886" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1611329243896">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1611329243896" />
+    <state x="275" y="89" key="Vcs.Push.Dialog.v2" timestamp="1611951660110">
+      <screen x="0" y="0" width="1366" height="706" />
+    </state>
+    <state x="275" y="89" key="Vcs.Push.Dialog.v2/0.0.1366.706@0.0.1366.706" timestamp="1611951660110" />
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1611808435168">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
