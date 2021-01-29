@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6267afb-cc29-49fa-bddb-067e61ba4e93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nucleus/loan/model/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nucleus/loan/model/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nucleus/loan/model/LoanApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniLoan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MiniLoan.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniLoan.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/MiniLoan.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nucleus/loan/model/Charge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MiniLoan.iws" beforeDir="false" afterPath="$PROJECT_DIR$/MiniLoan.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -293,7 +286,7 @@
       </method>
     </configuration>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="StarteamConfiguration">
     <option name="SERVER" value="" />
     <option name="PORT" value="49201" />
@@ -337,7 +330,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -394,5 +389,11 @@
   </component>
   <component name="WebViewSettings">
     <webview flattenPackages="false" showMembers="false" autoscrollToSource="false" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="390" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1611907707471">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1611907707471" />
   </component>
 </project>
