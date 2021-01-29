@@ -1,5 +1,8 @@
 package com.nucleus.model;
 
+import com.nucleus.loan.model.ChargePolicy;
+import com.nucleus.loan.model.EligibilityPolicy;
+
 import javax.persistence.*;
 import java.sql.Date;
 

@@ -24,7 +24,7 @@ public class ChargePolicy {
     @OneToOne
     private Charge charge;
     @OneToOne
-    private Product product;
+    private com.nucleus.model.Product product;
 
 
 }
