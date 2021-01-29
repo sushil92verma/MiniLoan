@@ -22,7 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dec029ec-635a-463e-a927-19f0fc682a9a" name="Default Changelist" comment="Receipts Initial">
+    <list default="true" id="dec029ec-635a-463e-a927-19f0fc682a9a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +76,7 @@
       <recent name="C:\Users\sushil verma\IdeaProjects\MiniLoan\src\main\webapp\WEB-INF\view" />
     </key>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -109,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611915320556</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Payment Initial">
+      <created>1611922881287</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611922881287</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,23 +124,29 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="chargepolicycommit initial" />
     <MESSAGE value="Receipts Initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Receipts Initial" />
+    <MESSAGE value="Payment Initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Payment Initial" />
   </component>
   <component name="WindowStateProjectService">
     <state x="534" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1611922697550">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="534" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1611922697550" />
+    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1611922879105">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1611922879105" />
     <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1611915450824">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
