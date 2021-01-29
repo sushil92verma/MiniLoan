@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="dec029ec-635a-463e-a927-19f0fc682a9a" name="Default Changelist" comment="chargepolicycommit initial1">
+    <list default="true" id="dec029ec-635a-463e-a927-19f0fc682a9a" name="Default Changelist" comment="Receipts Initial">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,13 +38,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\Var\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1nIf5YjGSgLQbvtNhAodpDtybHS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -37,6 +64,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\athra\OneDrive\Documents\GitHub\MiniLoan\src\main\java\com\nucleus\loan\model" />
       <recent name="C:\Users\sushil verma\IdeaProjects\MiniLoan\src\main\webapp" />
       <recent name="C:\Users\sushil verma\IdeaProjects\MiniLoan\src\main\resources" />
       <recent name="C:\Users\sushil verma\IdeaProjects\MiniLoan\src\main\webapp\WEB-INF\view" />
@@ -48,6 +76,7 @@
       <recent name="C:\Users\sushil verma\IdeaProjects\MiniLoan\src\main\webapp\WEB-INF\view" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -73,87 +102,37 @@
       <option name="project" value="LOCAL" />
       <updated>1611901989964</updated>
     </task>
-    <task id="LOCAL-00003" summary="chargepolicycommit initial">
-      <created>1611902435917</created>
+    <task id="LOCAL-00003" summary="Receipts Initial">
+      <created>1611915320556</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1611902435917</updated>
+      <updated>1611915320556</updated>
     </task>
-    <task id="LOCAL-00004" summary="chargepolicycommit initial1">
-      <created>1611904556503</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1611904556503</updated>
-    </task>
-    <task id="LOCAL-00005" summary="chargepolicycommit initial1">
-      <created>1611904657543</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1611904657543</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="chargepolicycommit initial" />
-    <MESSAGE value="chargepolicycommit initial1" />
-    <option name="LAST_COMMIT_MESSAGE" value="chargepolicycommit initial1" />
+    <MESSAGE value="Receipts Initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Receipts Initial" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="23" key="#Notifications" timestamp="1611905005448">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1611915450824">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="23" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1611905005448" />
-    <state x="275" y="22" key="#Project_Structure" timestamp="1611130431951">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1611130431951" />
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611083185501">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1611083185501" />
-    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1611141028442">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1611141028442" />
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1611904888004">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1611904888004" />
-    <state x="129" y="61" key="DiffContextDialog" timestamp="1611904653531">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="129" y="61" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1611904653531" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1611084570484">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1611084570484" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1611084570484">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1611084570484" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1611084570484">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1611084570484" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1611084570484">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1611084570484" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1611083405866">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1611083405866" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1611217465782">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1611217465782" />
-    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611905128917">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1611905128917" />
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1611915450824" />
   </component>
 </project>
