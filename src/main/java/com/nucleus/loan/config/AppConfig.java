@@ -57,8 +57,10 @@ public class AppConfig extends WebMvcConfigurerAdapter {
     private Properties hibernateProperties() {
         Properties properties = new Properties();
         properties.setProperty("hibernate.dialect", "org.hibernate.dialect.Oracle12cDialect");
+		//properties.setProperty("hibernate.dialect", "org.hibernate.dialect.Oracle10gDialect");
         properties.setProperty("hibernate.show_sql","true");
         properties.setProperty("hibernate.hbm2ddl.auto","update");
+        //properties.setProperty("hibernate.hbm2ddl.auto","create");
         properties.setProperty("current_session_context_class","thread");
 
         return properties;
@@ -68,8 +70,12 @@ public class AppConfig extends WebMvcConfigurerAdapter {
         BasicDataSource dataSource = new BasicDataSource();
         dataSource.setDriverClassName("oracle.jdbc.driver.OracleDriver");
         dataSource.setUrl("jdbc:oracle:thin:@localhost:1521:orcl");
+        //dataSource.setUrl("jdbc:oracle:thin:@localhost:1521/xe");
         dataSource.setUsername("system");
+        //dataSource.setUsername("SCHOOL");
         dataSource.setPassword("oracle");
+        //dataSource.setPassword("SCHOOL");
+
 
         return dataSource;
     }
