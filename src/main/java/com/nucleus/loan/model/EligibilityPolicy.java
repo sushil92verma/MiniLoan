@@ -1,3 +1,4 @@
+/*
 package com.nucleus.loan.model;
 
 import javax.persistence.Entity;
@@ -14,3 +15,4 @@ public class EligibilityPolicy {
 
 }
 
+*/
