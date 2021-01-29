@@ -4,15 +4,15 @@ import javax.persistence.ManyToOne;
 import java.util.Date;
 
 public class Advice {
-    private int AdviceId;
-    private int AmountDue;
-    private String Type;
-    private String Status;
-    private String AdviceType;
-    private Date AdviceDate;
+    private int adviceId;
+    private int amountDue;
+    private String type;
+    private String status;
+    private String adviceType;
+    private Date adviceDate;
     @ManyToOne
-    private RepaymentSchedule LoanApplicationNo;
+    private RepaymentSchedule loanApplicationNumber;
     @ManyToOne
-    private RepaymentSchedule InstallmentNo;
+    private RepaymentSchedule installmentNo;
 
 }

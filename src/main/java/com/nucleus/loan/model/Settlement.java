@@ -3,13 +3,13 @@ package com.nucleus.loan.model;
 import javax.persistence.ManyToOne;
 
 public class Settlement {
-    private int PaymentId;
-    private int AmountPaid;
-    private int AmountDue;
-    private String Status;
+    private int paymentId;
+    private int amountPaid;
+    private int amountDue;
+    private String status;
     @ManyToOne
-    private Advice AdviceId;
+    private Advice adviceId;
     @ManyToOne
-    private Reciept RecieptNo;
+    private Receipts receiptNo;
 
 }
