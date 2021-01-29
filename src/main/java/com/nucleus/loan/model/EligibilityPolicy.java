@@ -6,23 +6,10 @@ import javax.persistence.OneToOne;
 import javax.persistence.Table;
 import java.util.Date;
 
-@Entity(name = "ChargePolicy")
-@Table(name = "ChargePolicy")
-public class ChargePolicyModel {
 
-    @Id
-    private String chargePolicyCode;
-    private String chargePolicyName;
-    private String chargePolicyDescription;
+public class EligibilityPolicy {
 
-    private Date createDate;
-    private String createdBy;
-    private  Date modifiedDate;
-    private String modifiedBy;
-    private Date authorizedDate;
-    private String authorizedBy;
-    @OneToOne
-    private Charge charge;
+  
 
 
 }
