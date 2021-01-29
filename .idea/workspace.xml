@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dec029ec-635a-463e-a927-19f0fc682a9a" name="Default Changelist" comment="">
+    <list default="true" id="dec029ec-635a-463e-a927-19f0fc682a9a" name="Default Changelist" comment="chargepolicycommit initial1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,14 +80,33 @@
       <option name="project" value="LOCAL" />
       <updated>1611902435917</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="chargepolicycommit initial1">
+      <created>1611904556503</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611904556503</updated>
+    </task>
+    <task id="LOCAL-00005" summary="chargepolicycommit initial1">
+      <created>1611904657543</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611904657543</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="chargepolicycommit initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="chargepolicycommit initial" />
+    <MESSAGE value="chargepolicycommit initial1" />
+    <option name="LAST_COMMIT_MESSAGE" value="chargepolicycommit initial1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="275" y="23" key="#Notifications" timestamp="1611905005448">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1611905005448" />
     <state x="275" y="22" key="#Project_Structure" timestamp="1611130431951">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -100,14 +119,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1611141028442" />
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1611904555314">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1611904888004">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1611904555314" />
-    <state x="129" y="61" key="DiffContextDialog" timestamp="1611904538792">
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1611904888004" />
+    <state x="129" y="61" key="DiffContextDialog" timestamp="1611904653531">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="129" y="61" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1611904538792" />
+    <state x="129" y="61" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1611904653531" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1611084570484">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -132,9 +151,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1611217465782" />
-    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611904597172">
+    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611905128917">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1611904597172" />
+    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1611905128917" />
   </component>
 </project>
