@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6267afb-cc29-49fa-bddb-067e61ba4e93" name="Default Changelist" comment="" />
+    <list default="true" id="c6267afb-cc29-49fa-bddb-067e61ba4e93" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nucleus/loan/model/EligibilityPolicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nucleus/loan/model/EligibilityPolicy.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -304,6 +306,14 @@
       <option name="presentableId" value="Default" />
       <updated>1611221147006</updated>
     </task>
+    <task id="LOCAL-00001" summary="model class">
+      <created>1611905013185</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611905013186</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -317,6 +327,10 @@
       <flatten-packages value="false" />
       <is-autoscroll-to-source value="true" />
     </todo-panel>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="model class" />
+    <option name="LAST_COMMIT_MESSAGE" value="model class" />
   </component>
   <component name="VssConfiguration">
     <CheckoutOptions>
@@ -379,6 +393,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="453" y="65" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1611685417741" />
+    <state x="305" y="0" key="CommitChangelistDialog2" timestamp="1611905011490">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="305" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1611905011490" />
     <state x="213" y="11" key="Maven.ArtifactSearchDialog" timestamp="1611951842886">
       <screen x="0" y="0" width="1366" height="706" />
     </state>
