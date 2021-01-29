@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6267afb-cc29-49fa-bddb-067e61ba4e93" name="Default Changelist" comment="Payment.java">
+    <list default="true" id="c6267afb-cc29-49fa-bddb-067e61ba4e93" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/main/java/com/nucleus/loan/model/Charge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MiniLoan.iws" beforeDir="false" afterPath="$PROJECT_DIR$/MiniLoan.iws" afterDir="false" />
     </list>
@@ -312,6 +312,14 @@
       <option name="presentableId" value="Default" />
       <updated>1611221147006</updated>
     </task>
+    <task id="LOCAL-00001" summary="Payment.java">
+      <created>1611917159230</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611917159230</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -404,10 +412,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="534" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1611915227498" />
-    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1611917072846">
+    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1611917154800">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1611917072846" />
+    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1611917154800" />
     <state x="213" y="22" key="Maven.ArtifactSearchDialog" timestamp="1611915484377">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
