@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c6267afb-cc29-49fa-bddb-067e61ba4e93" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nucleus/loan/model/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nucleus/loan/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nucleus/loan/model/LoanApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MiniLoan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MiniLoan.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MiniLoan.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/MiniLoan.ipr" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MiniLoan.iws" beforeDir="false" afterPath="$PROJECT_DIR$/MiniLoan.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/nucleus/loan/model/EligibilityPolicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nucleus/loan/model/EligibilityPolicy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -234,7 +242,6 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -244,6 +251,7 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -285,6 +293,7 @@
       </method>
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="StarteamConfiguration">
     <option name="SERVER" value="" />
     <option name="PORT" value="49201" />
@@ -322,6 +331,17 @@
       <flatten-packages value="false" />
       <is-autoscroll-to-source value="true" />
     </todo-panel>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VssConfiguration">
     <CheckoutOptions>
@@ -374,35 +394,5 @@
   </component>
   <component name="WebViewSettings">
     <webview flattenPackages="false" showMembers="false" autoscrollToSource="false" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="275" y="22" key="#Project_Structure" timestamp="1611820576872">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1611820576872" />
-    <state x="453" y="65" key="#com.intellij.ide.util.MemberChooser" timestamp="1611685417741">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="453" y="65" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1611685417741" />
-    <state x="213" y="11" key="Maven.ArtifactSearchDialog" timestamp="1611951842886">
-      <screen x="0" y="0" width="1366" height="706" />
-    </state>
-    <state x="213" y="11" key="Maven.ArtifactSearchDialog/0.0.1366.706@0.0.1366.706" timestamp="1611951842886" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1611329243896">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1611329243896" />
-    <state x="275" y="89" key="Vcs.Push.Dialog.v2" timestamp="1611951660110">
-      <screen x="0" y="0" width="1366" height="706" />
-    </state>
-    <state x="275" y="89" key="Vcs.Push.Dialog.v2/0.0.1366.706@0.0.1366.706" timestamp="1611951660110" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1611808435168">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1611808435168" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1611329128074">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1611329128074" />
   </component>
 </project>
