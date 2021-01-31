@@ -21,6 +21,8 @@ public class Product {
     @ManyToOne(cascade = CascadeType.ALL)
     private EligibilityPolicy eligibilityPolicyCode;
     @ManyToOne(cascade = CascadeType.ALL)
+    private RepaymentPolicy repaymentPolicy;
+    @ManyToOne(cascade = CascadeType.ALL)
     private ChargePolicy chargePolicyCode;
     private double maxExposureAmount;
     public enum loanStatus{
