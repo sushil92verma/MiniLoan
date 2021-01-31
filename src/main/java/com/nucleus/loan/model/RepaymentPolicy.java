@@ -37,6 +37,8 @@ public class RepaymentPolicy extends BaseDTO{
 	private String interestRateType;
 	@Column(name = "DEFAULT_RATE", length = 2)
 	private int defaultRate;
+	@OneToMany
+        private List<Product> product;
 	public String getPolicyCode() {
 		return policyCode;
 	}
