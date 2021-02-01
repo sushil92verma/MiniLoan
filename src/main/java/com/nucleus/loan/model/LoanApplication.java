@@ -1,6 +1,7 @@
 package com.nucleus.loan.model;
 
 import javax.persistence.*;
+import java.util.List;
 
 @Entity
 public class LoanApplication
@@ -33,7 +34,31 @@ public class LoanApplication
 
     @ManyToOne(cascade = CascadeType.ALL)
     private Customer customer;
-    private String product;
+
+    @ManyToOne(cascade = CascadeType.ALL)
+    private Product product;
+
+    @OneToMany(cascade = CascadeType.ALL)
+    private List<Advice> advice;
+
+    @OneToMany(cascade = CascadeType.ALL)
+    private List<RepaymentSchedule> repaymentSchedules;
+
+    public List<Advice> getAdvice() {
+        return advice;
+    }
+
+    public void setAdvice(List<Advice> advice) {
+        this.advice = advice;
+    }
+
+    public List<RepaymentSchedule> getRepaymentSchedules() {
+        return repaymentSchedules;
+    }
+
+    public void setRepaymentSchedules(List<RepaymentSchedule> repaymentSchedules) {
+        this.repaymentSchedules = repaymentSchedules;
+    }
 
     public int getLoanApplicationNo() {
         return loanApplicationNo;
@@ -155,11 +180,11 @@ public class LoanApplication
         this.customer = customer;
     }
 
-    public String getProduct() {
+    public Product getProduct() {
         return product;
     }
 
-    public void setProduct(String product) {
+    public void setProduct(Product product) {
         this.product = product;
     }
 

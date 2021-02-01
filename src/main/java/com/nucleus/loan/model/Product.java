@@ -1,4 +1,4 @@
-package com.nucleus.model;
+package com.nucleus.loan.model;
 
 import com.nucleus.loan.model.ChargePolicy;
 import com.nucleus.loan.model.EligibilityPolicy;

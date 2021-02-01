@@ -33,7 +33,7 @@ public class Customer
     @OneToMany(cascade = CascadeType.ALL,mappedBy = "customer")
     private List<Address> address;
     @OneToMany(cascade = CascadeType.ALL,mappedBy = "customer")
-    private List<LoanApplication> loanApplicationList;
+    private List<LoanApplication> loanApplication;
 
 
     public List<Address> getAddress() {
