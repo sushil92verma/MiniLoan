@@ -24,6 +24,7 @@ public class Customer
     private String lastName;
     @Column(length = 30,nullable = false)
     private String fullName;
+    @Temporal(TemporalType.DATE)
     @Column(nullable = false)
     private Date dateOfBirth;
     @Column(length = 2)

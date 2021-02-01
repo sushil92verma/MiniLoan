@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6267afb-cc29-49fa-bddb-067e61ba4e93" name="Default Changelist" comment="">
+    <list default="true" id="c6267afb-cc29-49fa-bddb-067e61ba4e93" name="Default Changelist" comment="commit athrav">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nucleus/loan/enumerator/Status.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MiniLoan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MiniLoan.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniLoan.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/MiniLoan.ipr" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MiniLoan.iws" beforeDir="false" afterPath="$PROJECT_DIR$/MiniLoan.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/nucleus/loan/model/Charge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nucleus/loan/model/Charge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/nucleus/loan/model/ChargePolicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nucleus/loan/model/ChargePolicy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nucleus/loan/model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nucleus/loan/model/Customer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/nucleus/loan/model/LoanApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nucleus/loan/model/LoanApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/nucleus/loan/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nucleus/loan/model/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/nucleus/loan/model/RepaymentPolicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nucleus/loan/model/RepaymentPolicy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -320,6 +317,14 @@
       <option name="presentableId" value="Default" />
       <updated>1611221147006</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit athrav">
+      <created>1612183531986</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612183531986</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -345,6 +350,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit athrav" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit athrav" />
   </component>
   <component name="VssConfiguration">
     <CheckoutOptions>
