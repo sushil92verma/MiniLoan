@@ -3,6 +3,7 @@ package com.nucleus.loan.model;
 import javax.persistence.*;
 import java.util.Date;
 
+@Table(name = "repayment_schedules")
 @Entity
 public class RepaymentSchedule
 {
@@ -25,6 +26,7 @@ public class RepaymentSchedule
     private Date dueDate;
     @Column(name = "bill_flag")
     private char billFlag;
+    @JoinColumn(name = "loan_application_number")
     @ManyToOne(cascade = CascadeType.ALL)
     private LoanApplication loanApplication;
 
