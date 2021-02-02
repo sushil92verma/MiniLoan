@@ -12,7 +12,7 @@ public class LoanApplication
 {
     @Id
     @Column(length = 10,name = "LoanApplicationNumber")
-    private int loanApplicationNo;
+    private String loanApplicationNo;
 
     @Column(name = "LoanAmountRequested",nullable = false)
     private Double loanAmountRequested;
@@ -53,11 +53,11 @@ public class LoanApplication
     @OneToMany(cascade = CascadeType.ALL)
     private List<RepaymentSchedule> repaymentSchedules;
 
-    public int getLoanApplicationNo() {
+    public String getLoanApplicationNo() {
         return loanApplicationNo;
     }
 
-    public void setLoanApplicationNo(int loanApplicationNo) {
+    public void setLoanApplicationNo(String loanApplicationNo) {
         this.loanApplicationNo = loanApplicationNo;
     }
 
