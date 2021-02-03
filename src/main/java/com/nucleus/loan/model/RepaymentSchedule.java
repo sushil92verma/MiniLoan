@@ -26,7 +26,7 @@ public class RepaymentSchedule
     private Date dueDate;
     @Column(name = "bill_flag")
     private char billFlag;
-    @JoinColumn(name = "loan_application_number")
+    @JoinColumn(name = "loanApplicationNumber")
     @ManyToOne(cascade = CascadeType.ALL)
     private LoanApplication loanApplication;
 
