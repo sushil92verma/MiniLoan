@@ -25,19 +25,6 @@ public class RepaymentScheduleController
     }
 
 
-    @GetMapping("/add")
-    public String addRepaymentSchedulePage(@ModelAttribute("loan") String loan)
-    {
-        LoanApplication loanApplication = new LoanApplication();
-        loanApplication.setLoanApplicationNumber(loan);
-        loanApplication.setLoanAmountRequested(250000);
-        loanApplication.setRate(12);
-        loanApplication.setTenure(20);
-        loanApplication.setInstallmentDueDate(new Date());
-        repaymentScheduleService.addRepaymentSchedule(loanApplication);
-        return "repaymentScheduleHome";
-    }
-
     @GetMapping("generatedRepaymentSchedule")
     public String showRepaymentSchedule(@ModelAttribute("loanApplicationNo") String loanApplicationNo, Model model)
     {
